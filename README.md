@@ -6,7 +6,7 @@ Analisis ini mendukung pemahaman mendalam terkait persepsi pelanggan dan area pe
 
 ## 📊 Raw Dataset
 Dataset berasal dari Kaggle: [Indonesian Marketplace Product Reviews](https://www.kaggle.com/datasets/taqiyyaghazi/indonesian-marketplace-product-reviews).  
-Salinan dataset mentah juga tersedia di repo ini: [`data/reviews.csv`](data/raw dataset/reviews.csv).
+Salinan dataset mentah juga tersedia di repo ini: [`data/reviews.csv`](data/raw_dataset/reviews.csv).
 
 ## 🔎 Analysis Process
 1. Load dataset & preprocessing (pembersihan teks, normalisasi label).
